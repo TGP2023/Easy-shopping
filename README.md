@@ -4,7 +4,7 @@
 <br>
 <h1>Sobre o projeto<h1>
   
-<h2>Para criação deste projeto foram utilizados o HTML e CSS.   
+<h2>O projeto tem por objetivo trazer uma boa experiência de compra na plataforma do site.   
 <br>  
 <br>  
 <h1> Tecnologias utilizadas<h2>
