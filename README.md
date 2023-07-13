@@ -12,4 +12,5 @@
   <p>-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt= "css3-logo">
 
 <img src="https://github.com/TGP2023/Easy-shopping/blob/master/img/Captura%20de%20tela%202023-05-17%20192457.png?raw=true">
+<br>
 <img src="https://github.com/TGP2023/Easy-shopping/blob/master/img/Captura%20de%20tela%20celular%202023-05-17%20192616.png?raw=true">
