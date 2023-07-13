@@ -3,7 +3,7 @@
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <h1>Sobre o projeto<h1>  
-<h2>Tem por objetivo trazer uma boa experiência de compra dentro da plataforma do site. Temos visibilidade do projeto no formato para PC e Mobile.  
+<h2>Tem por objetivo trazer uma boa experiência de compra dentro da plataforma do site. Temos visibilidade do projeto no formato para PC e Mobile (Responsivo).  
 <br>   
 <br>   
 <h1> Tecnologias utilizadas<h2>
