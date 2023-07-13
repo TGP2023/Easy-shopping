@@ -13,4 +13,6 @@
 
 <img src="https://github.com/TGP2023/Easy-shopping/blob/master/img/Captura%20de%20tela%202023-05-17%20192457.png?raw=true">
 <br>
-<img src="https://github.com/TGP2023/Easy-shopping/blob/master/img/Captura%20de%20tela%20celular%202023-05-17%20192616.png?raw=true">
+<h1 align="center">
+  <img src="https://github.com/TGP2023/Easy-shopping/blob/master/img/Captura%20de%20tela%20celular%202023-05-17%20192616.png?raw=true">
+</h1>
